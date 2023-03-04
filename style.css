@@ -11,6 +11,16 @@ body{
     background-image: url(gambar/bagroundpolos.png);
 }
 
+.none{
+    text-decoration: none;
+    color: white;
+    transition: 0.3s;
+}
+
+.none:hover{
+    color: cyan;
+}
+
 .padding{
     padding-top: 20px;
 }
