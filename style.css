@@ -167,8 +167,8 @@ nav ul li a:hover{
 }
 
 /* Responsive Breakpoint */
-/* Table */
-@media screen and (max-width: 1489px){
+/* Table */ 
+@media screen and (max-width: 1400px){
     nav ul {
         width: 30%;
     }
@@ -237,7 +237,6 @@ section{
     height: 90vh;
     text-align: center;
     color: white;
-    padding-top: 115px;
   }
 
 .container2 {

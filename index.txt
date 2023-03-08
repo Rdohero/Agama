@@ -42,9 +42,9 @@
            <p>Perbuatan zina adalah sebagai perbuatan bersenggama antara perempuan dan laki-laki yang bukan mahramnya (bukan pasangan halal). Dalam Islam, melarang umatnya untuk mendekati zina, karena zina adalah salah satu dosa besar yang bisa mendatangkan siksa pedih bagi pelakunya. Tak hanya mendatangkan dosa besar, zina juga bisa menimbulkan kemudharatan lain seperti penyakit menular seksual.</p> 
         </section>
     </div>
+    <img src="gambar/1920x205px.png">
     <!-- Pengertian zina menurut -->
     <div class="container" id="pengertian">
-        <img src="gambar/1920x205px.png">
         <h1>Pengertian Zina Menurut Mazhab dan Pendapat Imam</h1>
         <div class="top-column box">
             <h2>Mazhab Al-Hanafiyah</h2>
