@@ -171,6 +171,7 @@ nav ul li a:hover{
 @media screen and (max-width: 1400px){
     nav ul {
         width: 30%;
+        padding: 1%;
     }
 }
 /* mobile */
@@ -245,7 +246,7 @@ section{
     height: 90vh;
     text-align: center;
     color: white;
-    padding-top: 75px;
+    margin-top: 75px;
     border-top: 2px solid #fff;
   }
 
@@ -273,7 +274,6 @@ section{
 }
 
 .bottom-center-column{
-    padding-bottom: 100px;
     box-sizing: border-box;
     text-align: center;
     margin: 0 auto;
